@@ -2,16 +2,16 @@
 Made with React.js, Redux.js
 livelink--https://erpbd.netlify.app/
 
-#Install
+# Install
 npm install
 
-#Run
+# Run
 npm start
 
-#Build
+# Build
 npm run build
 
-#Screenshots
+# Screenshots
 ![alt text](https://raw.githubusercontent.com/kaneki666/ERP/master/Screenshot%20(117).png)
 ![alt text](https://raw.githubusercontent.com/kaneki666/ERP/master/Screenshot%20(118.png)
 ![alt text](https://raw.githubusercontent.com/kaneki666/ERP/master/Screenshot%20(119).png)
